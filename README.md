@@ -1,4 +1,6 @@
-Acesta este un script pentru ati arata informatiile despre un player! Este unul basic cu un design destul de frumos. Este usor de configurat si puteti lucra in el foarte usor.
+Acesta este un script pentru ati arata informatiile despre un player! 
+Este unul basic cu un design destul de frumos. 
+Este usor de configurat si puteti lucra in el foarte usor.
 
 Comanda inregistrata este /info [ID]. Scrieti un ID si puteti vedea:
 
